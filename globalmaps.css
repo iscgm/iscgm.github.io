@@ -1,0 +1,41 @@
+body{
+	color: #555;
+}
+h1 {
+	padding: 0.5em;
+	border: 3px solid #ccc;
+	border-radius: 3em .7em 2em .7em/.7em 2em .7em 3em;
+}
+h2 {
+	padding: .15em 0 0.15em .5em;
+	border-left: 6px solid #ccc;
+	border-bottom: 1px solid #ccc;
+
+	}
+h3{
+	padding-bottom: .5em;
+	border-bottom: 1px solid #ccc;
+}
+
+table{
+	border-collapse: collapse;
+}
+th, td{
+	padding: 5px;
+	text-align: left;
+	border: 1px solid #ccc;
+	}
+.box1{
+	margin-left: 1em;
+}
+
+.gWrap{
+		width:90%;
+		margin: 0 auto;
+}
+
+.note{
+	background-color:yellow;
+	color:red; 
+	border: 2px solid red; 
+}
